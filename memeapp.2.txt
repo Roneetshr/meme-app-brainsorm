@@ -1,0 +1,11 @@
+Meme App
+Login
+Basic meme
+Meme creator
+Profile
+Image input 
+Sound
+Text
+Images
+Meme Sounds
+Text Boxes
